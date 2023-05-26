@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;800&family=Roboto&display=swap');
+
+body {  
+    padding: 0;
+    margin: 0;
+    background-color: #14345c;
+    text-align: center;
+}
+
+.header {   
+        background-color: #f4ae8e;
+        width: 100%;
+        padding: 20px;
+        position: fixed;
+}
+
+.header h1 {    
+    color: #14345c;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+}
+
+.image {    
+    padding-top: 200px;
+    text-align: center;
+    
+}
+
+.image img {    
+    width: 200px;
+}
+
+.paragrafo {    
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    color: #f4ae8e;
+}
+
+.paragrafo p a{ 
+    color: #f4ae8e;
+}
+
+.button {   
+    margo-top: 50px;
+    text-align: center;
+}
+
+.button  {    
+    margin: 50px;
+}
+
+.button a {  
+    padding: 10px 20px;
+    color: #14345c;
+    text-decoration: none;
+    background-color: #f4ae8e;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+}
+
+.filmes h2{   
+    background-color: #f4ae8e;
+    text-align: center;
+    margin: 0 600px;
+    border-radius: 10px;
+    color: #14345c;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+}
+
+.filmes ul {    
+    padding-right: 40px;
+    margin-top: 20px;
+    margin-left: 600px;
+    margin-right: 600px;   
+    background-color: #f4ae8e;
+    border-radius: 10px;
+}
+
+.filmes li {    
+    padding: 10px;
+    text-align: center;
+    color: #14345c;
+    font-family:'Poppins', sans-serif;
+    list-style-type: none;
+}
+
+table {    
+    text-align: center;
+    background-color: #f4ae8e;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.tabela {
+    width: 400px;
+    margin:0 550px;
+    text-align: center;
+    color: #14345c;
+    font-family:'Poppins', sans-serif;
+}
+
+.footer {   
+    background-color: #f4ae8e;
+    width: auto;
+    padding: 15px;
+    text-align: center;
+    color: #14345c;
+    font-family:'Poppins', sans-serif;
+    font-weight: 600;    
+}
+
